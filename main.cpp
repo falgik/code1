@@ -8,7 +8,7 @@ using namespace sf;
 
 class Prog
 {
-public:
+public:  
 
     void init(Vector2u wndsize, Font& font)
     {
